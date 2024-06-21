@@ -11,4 +11,4 @@ Hello, I'm Ridhwan Shodiq, an Information Systems student at [Amikom University 
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/ridhwan-shodiq-r/">LinkedIn</a>
+- <a href="https://linkedin.com/in/ridhwan-shodiq-r/"><img align="left" alt="LinkedIn" title="LinkedIn" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
