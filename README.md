@@ -1,19 +1,6 @@
 ### Hi! 👋 I'm Ridhwan.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
-
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <br>
-  <br>
+Hello, I'm Ridhwan Shodiq, an Information Systems student at [Amikom University Yogyakarta](https://home.amikom.ac.id/). I have a great interest in web development, and since starting college, I have been actively developing my skills in this area. I play an active role in doing college assignments, both programming and others. I am currently taking online training at [Dicoding Indonesia](https://www.dicoding.com/) in the Front-end and Back-end web developer program. My goal is to become a reliable and innovative professional web developer.
   
 ### Github Statistic
 <p align="left">
